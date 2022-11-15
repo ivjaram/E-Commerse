@@ -1,0 +1,24 @@
+h1{
+    text-align: center;
+}
+a{
+    text-decoration: none;
+}
+
+.Containe{
+    width: 90%;
+    padding: 10px 15em;
+}
+.Container{
+    display: flex;
+    text-align: center;
+    flex-direction: row;
+    padding: 10px 31em;
+}
+.login{
+    
+    width: 80%;
+    padding: 20px 0em;
+    background-color: aqua;
+    border-radius: 20px;
+}
